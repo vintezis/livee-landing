@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="71px" height="71px" viewBox="0 0 71 71" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>ServicesIcons/Icon-3</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="ServicesIcons/Icon-3" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="3" stroke="#3EB6AE" stroke-width="2">
+            <circle id="Oval-Copy" cx="35.5" cy="35.5" r="34.5"></circle>
+        </g>
+        <path d="M16,24 L38,24 L38,23 L16,23 L16,24 Z M16,27 L27,27 L27,26 L16,26 L16,27 Z M16,30 L25,30 L25,29 L16,29 L16,30 Z M16,33 L24,33 L24,32 L16,32 L16,33 Z M44,26 L44,23.069 C44,19.717 41.283,17 37.931,17 L18.069,17 C14.717,17 12,19.717 12,23.069 L12,32.931 C12,35.917 14.159,38.394 17,38.9 L17,45 L23.857,39 L26,39 L26,32.71 C26,29.004 29.004,26 32.71,26 L44,26 Z M51,41 C49.896,41 49,40.104 49,39 C49,37.896 49.896,37 51,37 C52.104,37 53,37.896 53,39 C53,40.104 52.104,41 51,41 M44,41 C42.896,41 42,40.104 42,39 C42,37.896 42.896,37 44,37 C45.104,37 46,37.896 46,39 C46,40.104 45.104,41 44,41 M37,41 C35.896,41 35,40.104 35,39 C35,37.896 35.896,37 37,37 C38.104,37 39,37.896 39,39 C39,40.104 38.104,41 37,41 M53.931,28 L34.069,28 C30.717,28 28,30.717 28,34.069 L28,43.931 C28,47.283 30.717,50 34.069,50 L48.143,50 L55,56 L55,49.9 C57.841,49.394 60,46.917 60,43.931 L60,34.069 C60,30.717 57.283,28 53.931,28" id="Fill-3" fill="#3EB6AE"></path>
+    </g>
+</svg>

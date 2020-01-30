@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="144px" height="144px" viewBox="0 0 144 144" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>step-4-icon</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="step-4-icon">
+            <g>
+                <path d="M144,72 C144,111.764 111.764,144 72,144 C32.236,144 0,111.764 0,72 C0,32.236 32.236,0 72,0 C111.764,0 144,32.236 144,72" id="Fill-15" fill="#454771"></path>
+                <path d="M106,57.328 L106,86.672 C106,92.928 100.928,98 94.672,98 L49.328,98 C43.072,98 38,92.928 38,86.672 L38,57.328 C38,51.072 43.072,46 49.328,46 L94.672,46 C100.928,46 106,51.072 106,57.328 Z" id="Stroke-17" stroke="#FFFFFF" stroke-width="4"></path>
+                <path d="M38,58 L106,58" id="Stroke-19" stroke="#FFFFFF" stroke-width="4"></path>
+                <path d="M48,70 L84,70" id="Stroke-21" stroke="#FFFFFF" stroke-width="4"></path>
+                <path d="M48,78 L84,78" id="Stroke-23" stroke="#FFFFFF" stroke-width="4"></path>
+            </g>
+        </g>
+    </g>
+</svg>
